@@ -58,5 +58,7 @@ Isi utama:
 5. Student information
 
 Name  : Lu'luah Buhairah
+
 Class : TK-46-03
+
 NIM   : 1103220134
