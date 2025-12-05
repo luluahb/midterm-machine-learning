@@ -1,11 +1,10 @@
-# midterm-machine-learning
-UTS Machine Learning – End to end ML pipelines
+# UTS Machine Learning – End to end ML pipelines
 
-1. Purpose of this repository
+## Purpose of this repository
 
 Repository ini berisi pengerjaan tugas UTS mata kuliah Machine Learning. Fokusnya adalah membangun pipeline end to end untuk tiga jenis masalah: klasifikasi fraud, regresi, dan clustering. Semua eksperimen dikerjakan menggunakan Python dan dijalankan di Google Colab.
 
-2. Project overview
+## Project overview
 
 a. Fraud detection (Midterm_ML_FraudDetection.ipynb)
 
@@ -41,21 +40,21 @@ Isi utama:
 * Pemilihan jumlah cluster: perbandingan inertia (elbow method) dan silhouette score untuk memilih k terbaik.
 * Evaluasi dan interpretasi: ukuran tiap cluster, rata rata fitur penting per cluster (BALANCE, PURCHASES, CASH_ADVANCE, CREDIT_LIMIT, PAYMENTS, dll), visualisasi hasil cluster dengan PCA 2D, dan penjelasan makna setiap cluster (pengguna ringan vs pengguna aktif).
 
-3. How to run the notebooks
+## How to run the notebooks
 
 1) Buka notebook langsung di Google Colab (Open in Colab atau upload ke Colab).
-2) Pastikan file CSV dari dosen sudah ada di Google Drive atau mengikuti link Colab yang disediakan di kelas.
+2) Pastikan file CSV sudah ada di Google Drive atau mengikuti link Colab yang disediakan.
 3) Sesuaikan variabel base_path atau path dataset di bagian awal notebook dengan lokasi file di Google Drive kamu.
 4) Jalankan cell dari atas ke bawah.
 
-4. Files and structure
+## Files and structure
 
 * Fraud_ML.ipynb  → pipeline deteksi fraud end to end
 * Regresi_ML.ipynb      → pipeline regresi prediksi tahun rilis lagu
 * Clustering_ML.ipynb      → pipeline clustering nasabah kartu kredit
 * README.md                        → penjelasan umum repository ini
 
-5. Student information
+## Student information
 
 Name  : Lu'luah Buhairah
 
