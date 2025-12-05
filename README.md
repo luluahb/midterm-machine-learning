@@ -1,4 +1,4 @@
-# UTS Machine Learning – End to end ML pipelines
+# UTS Machine Learning 
 
 ## Purpose of this repository
 
