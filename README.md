@@ -6,7 +6,7 @@ Repository ini berisi pengerjaan tugas UTS mata kuliah Machine Learning. Fokusny
 
 ## Project overview
 
-a. Fraud detection (Midterm_ML_FraudDetection.ipynb)
+a. Fraud detection
 
 Tujuan: memprediksi probabilitas suatu transaksi online bersifat fraud (isFraud) menggunakan dataset train_transaction.csv dan test_transaction.csv.
 
@@ -18,7 +18,7 @@ Isi utama:
 * Evaluasi: Accuracy, Precision, Recall, F1-score, ROC AUC, dan confusion matrix.
 * Output: file submission berisi pasangan TransactionID dan probabilitas isFraud untuk data test_transaction.
 
-b. Regression (Midterm_ML_Regression.ipynb)
+b. Regression 
 
 Tujuan: memprediksi tahun rilis lagu berdasarkan fitur numerik audio pada file midterm-regresi-dataset.csv.
 
@@ -29,7 +29,7 @@ Isi utama:
 * Hyperparameter tuning: GridSearchCV sederhana untuk kombinasi n_estimators dan max_depth.
 * Evaluasi: MSE, RMSE, MAE, dan R² pada data test, serta interpretasi singkat seberapa baik model mengenali pola tahun rilis.
 
-c. Clustering (Midterm_ML_Clustering.ipynb)
+c. Clustering 
 
 Tujuan: mengelompokkan nasabah kartu kredit berdasarkan perilaku penggunaan kartu pada dataset clusteringmidterm.csv.
 
